@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @support-pan
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me by mail: supp.pan9@gmail.com
 
 <!---
